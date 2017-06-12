@@ -2,7 +2,8 @@
 
 ![IMAGE](img/networkGo.png)
 
-## Examples of how to use Go to work with the network
+## Examples of how to use Go to work with the network  
+We used examples from the book "Network Programming with Go" Jan Newmarch
 
 ## The code contains comments in Russian
 
