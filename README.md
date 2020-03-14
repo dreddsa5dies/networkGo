@@ -7,6 +7,8 @@ We used examples from the book "Network Programming with Go" Jan Newmarch
 
 ## The code contains comments in Russian
 
+## [Article](https://habr.com/ru/post/491818/)
+
 ## License
 This project is licensed under MIT license. Please read the LICENSE file.
 
